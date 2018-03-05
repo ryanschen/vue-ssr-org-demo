@@ -1,5 +1,5 @@
 # ssr-org-demo
-
+#### vue-ssr 根据vue-webpack-simple 模板 整合官方文档的ssr练习demo
 > A Vue.js project
 
 ## Build Setup
