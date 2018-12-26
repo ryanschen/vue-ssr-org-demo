@@ -5,7 +5,7 @@
         <h4 class="title">Hello World</h4>
         <p class="time">2017-10-09</p>
         <p class="detail">Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub.</p>
-        <button class="btn">阅读全文>></button>
+        <button class="btn">阅读全文&gt;&gt;</button>
       </li>
     </ul>
   </div>
